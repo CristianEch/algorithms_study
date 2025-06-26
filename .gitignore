@@ -1,0 +1,5 @@
+.algvenv
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
